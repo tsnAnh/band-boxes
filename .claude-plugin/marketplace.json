@@ -1,0 +1,5 @@
+{
+  "name": "band-boxes",
+  "owner": { "name": "tsnAnh" },
+  "plugins": [{ "name": "band-boxes", "source": "./" }]
+}
